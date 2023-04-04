@@ -1,0 +1,13 @@
+root = true
+# Definindo este ser o arquivo root
+
+# Definindo config para todos arquivos
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+# lf = maior compatibilidade
+charset = utf-8
+trim_trailing_whitespace = true
+# obriga a colocar espaço depois de símbolos
+insert_final_newline = true
